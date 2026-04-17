@@ -4,7 +4,7 @@ A responsive, highly accessible, and automated-test-ready Profile Card built ent
 
 ## 🚀 Live Demo
 
-[Insert your Vercel/Netlify/GitHub Pages Link Here]
+(https://taiwo-jeremiah.github.io/Testable-profile-card-component/)
 
 ## 🛠️ Key Features & Requirements Met
 
@@ -18,7 +18,7 @@ A responsive, highly accessible, and automated-test-ready Profile Card built ent
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Your-Username/Your-Repo-Name.git
+   git clone https://github.com/Taiwo-Jeremiah/Testable-profile-card-component.git
    ```
 2. **Navigate to the directory:**
    ```bash
